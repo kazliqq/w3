@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+Sitemap: http://slot-maxwin.de-rse.org/sitemap.xml
